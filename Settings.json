@@ -1,5 +1,5 @@
 {
-    "IsDeveloperMode": false,
+    "IsDeveloperMode": true,
     "DeveloperDevices": [
         "37ca0197d101196ce70f23b811108ab5",
         "456"

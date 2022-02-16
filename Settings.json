@@ -35,17 +35,17 @@
             {
                 "Name": "WallServicePack",
                 "Type": 6,
-                "Url": "https://disk.yandex.ru/i/aVICJULmx3Qa1A/"
+                "Url": "https://qr.sezinno.ru/startup_wall_preza/"
             },
             {
                 "Name": "WallWatchVideo",
                 "Type": 7,
-                "Url": "https://www.youtube.com/watch?v=5oEYoTikn2A/"
+                "Url": "https://qr.sezinno.ru/startup_wall_video/"
             },
             {
                 "Name": "WallTelegram",
                 "Type": 8,
-                "Url": "https://t.me/SEZchannels_bot/"
+                "Url": "https://qr.sezinno.ru/startup_wall_tgbot/"
             }
         ]
     },

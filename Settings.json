@@ -4,5 +4,49 @@
         "37ca0197d101196ce70f23b811108ab5",
         "CE439FA5-6BA4-487E-93D4-04E53B2E1CC7",
         "DEC21D1F-7F28-42B8-8603-4EA8FDECFA42"
-    ]
+    ],
+    "UrlDataTransfer": {
+        "Urls": [
+            {
+                "Name": "YouTube",
+                "Type": 1,
+                "Url": "https://www.youtube.com/channel/UC3TU3BcfAAVosPcrq7mjeFQ"
+            },
+            {
+                "Name": "Instagram",
+                "Type": 2,
+                "Url": "https://www.instagram.com/sez_innopolis/?hl=ru"
+            },
+            {
+                "Name": "Facebook",
+                "Type": 3,
+                "Url": "https://www.facebook.com/sezinnopolis/"
+            },
+            {
+                "Name": "Innevia",
+                "Type": 4,
+                "Url": "https://innevia.tech/"
+            },
+            {
+                "Name": "Innopolis",
+                "Type": 5,
+                "Url": "https://sezinnopolis.ru/"
+            },
+            {
+                "Name": "WallServicePack",
+                "Type": 6,
+                "Url": "https://www.google.com/"
+            },
+            {
+                "Name": "WallWatchVideo",
+                "Type": 7,
+                "Url": "https://www.yandex.ru/"
+            },
+            {
+                "Name": "WallTelegram",
+                "Type": 8,
+                "Url": "https://www.duckduckgo.com/"
+            }
+        ]
+    }
 }

@@ -48,5 +48,12 @@
                 "Url": "https://www.duckduckgo.com/"
             }
         ]
+    },
+    "GpsSettings": {
+        "DistanceToTarget": 500.0,
+        "Coordinates": {
+            "x": 55.75245666503906,
+            "y": 48.749237060546878
+        }
     }
 }

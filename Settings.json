@@ -35,17 +35,17 @@
             {
                 "Name": "WallServicePack",
                 "Type": 6,
-                "Url": "https://www.google.com/"
+                "Url": "https://disk.yandex.ru/i/aVICJULmx3Qa1A/"
             },
             {
                 "Name": "WallWatchVideo",
                 "Type": 7,
-                "Url": "https://www.yandex.ru/"
+                "Url": "https://www.youtube.com/watch?v=5oEYoTikn2A/"
             },
             {
                 "Name": "WallTelegram",
                 "Type": 8,
-                "Url": "https://www.duckduckgo.com/"
+                "Url": "https://t.me/SEZchannels_bot/"
             }
         ]
     },

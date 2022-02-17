@@ -46,6 +46,21 @@
                 "Name": "WallTelegram",
                 "Type": 8,
                 "Url": "https://qr.sezinno.ru/startup_wall_tgbot/"
+            },
+            {
+                "Name": "Mixar",
+                "Type": 9,
+                "Url": "https://mixar.biz/"
+            },
+            {
+                "Name": "Markers",
+                "Type": 10,
+                "Url": "https://mixar.biz/"
+            },
+            {
+                "Name": "Rate",
+                "Type": 11,
+                "Url": "https://mixar.biz/"
             }
         ]
     },

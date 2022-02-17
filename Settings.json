@@ -66,6 +66,26 @@
                 "Name": "CoworkingOnMap",
                 "Type": 12,
                 "Url": "https://yandex.ru/maps/-/CCU5R2SgOC/"
+            },
+            {
+                "Name": "Privacy",
+                "Type": 13,
+                "Url": "https://mixar.biz/"
+            },
+            {
+                "Name": "Term",
+                "Type": 14,
+                "Url": "https://mixar.biz/"
+            },
+            {
+                "Name": "ARCoreTerm",
+                "Type": 15,
+                "Url": "https://play.google.com/store/apps/details?id=com.google.ar.core/"
+            },
+            {
+                "Name": "GoogleTerm",
+                "Type": 16,
+                "Url": "https://policies.google.com/privacy/"
             }
         ]
     },

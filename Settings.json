@@ -61,6 +61,11 @@
                 "Name": "Rate",
                 "Type": 11,
                 "Url": "https://mixar.biz/"
+            },
+            {
+                "Name": "CoworkingOnMap",
+                "Type": 12,
+                "Url": "https://yandex.ru/maps/-/CCU5R2SgOC/"
             }
         ]
     },

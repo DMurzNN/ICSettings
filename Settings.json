@@ -90,10 +90,16 @@
         ]
     },
     "GpsSettings": {
-        "DistanceToTarget": 500.0,
+        "DistanceToTarget": 100.0,
         "Coordinates": {
             "x": 55.75245666503906,
             "y": 48.749237060546878
+        },
+        "CoordinatesPopov": {
+            "x": 55.751863,
+            "y": 48.752274
         }
     }
+    "LobachevskyTourId": "46",
+    "PopovTourId": "50"
 }

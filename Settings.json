@@ -86,6 +86,36 @@
                 "Name": "GoogleTerm",
                 "Type": 16,
                 "Url": "https://policies.google.com/privacy/"
+            },
+            {
+                "Name": "PlanetNoRules",
+                "Type": 17,
+                "Url": "https://youtu.be/F14VX21fEPY"
+            },
+            {
+                "Name": "PlanetScrum",
+                "Type": 18,
+                "Url": "https://youtu.be/jXEQPS4bt9w"
+            },
+            {
+                "Name": "PlanetHolocraty",
+                "Type": 19,
+                "Url": "https://mix-ar.ru/content/cw/Privacy_Statement_RU.pdf"
+            },
+            {
+                "Name": "PlanetTarget",
+                "Type": 20,
+                "Url": "https://mix-ar.ru/content/cw/Usage_Policy_RU.pdf"
+            },
+            {
+                "Name": "PlanetHappy",
+                "Type": 21,
+                "Url": "https://youtu.be/MRdFxSVuULM"
+            },
+            {
+                "Name": "PlanetFrom0To1",
+                "Type": 22,
+                "Url": "https://policies.google.com/privacy/"
             }
         ]
     },
